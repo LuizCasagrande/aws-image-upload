@@ -1,0 +1,10 @@
+HELP.md
+target
+.mvn
+mvnw
+mvnw.cmd
+.idea
+*.iml
+amazon.properties
+/src/main/resources/amazon.properties
+/src/main/frontend/node_modules/
